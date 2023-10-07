@@ -88,7 +88,7 @@ __Postman__ (Deleting Subscriber with added subscriber id) <br/>
 
 #### How to add new subscribers & delete ?
 
-Use Postman or Insomnia to add new subscribers, Delete subscribers from the database.<br/>
+Use Postman or Rapid API to add new subscribers, Delete subscribers from the database.<br/>
 
 ## Deployment
 
