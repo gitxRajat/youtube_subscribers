@@ -93,7 +93,7 @@ Use Postman or Rapid API to add new subscribers, Delete subscribers from the dat
 ## Deployment
 
 *__Use Json Viewer extension in Browser for better view__*
-
+https://app.netlify.com/teams/gitxrajat/overview
 
 
       
